@@ -1,0 +1,2 @@
+# StickyBot
+Discord bot
